@@ -92,7 +92,7 @@ func MaxProfit(prices []int, i int) (total int) {
 // ============= Second Question ====================================
 // ==================================================================
 func secondQuestion() {
-	// TODO: change this for test the first question
+	// TODO: change this for test the second question
 	array := []int{1, 2, 3, 4, 5, 6, 7, 8, 9}
 	i := 2
 
